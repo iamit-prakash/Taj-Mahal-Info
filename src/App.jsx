@@ -5,6 +5,7 @@ import Home from "./pages/Home"
 import Nav from "./component/Nav"
 import Architecture from "./pages/Architecture"
 import History from "./pages/History"
+import Details from "./pages/Details"
 
 export default function App(){
   return (
@@ -15,6 +16,7 @@ export default function App(){
      <Route path="/" element={<Home />} />
      <Route path="/architecture" element={<Architecture />} />
      <Route path="/history" element={<History />} />
+     <Route path="/details" element={<Details />} />
      
       </Routes>
     </Router>

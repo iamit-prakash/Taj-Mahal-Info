@@ -2,6 +2,8 @@ export default function Home(){
     return(
         <div className="container py-4">
             <h1>Overview</h1>
+            <h2>Tajmahal</h2>
+            <p>Agra</p>
             <img
              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvL7eR0ARylZDA-ac-FEReyvKFw1yE5B-XJvOGO-o-piSENXey0fHO401o&s=10"
              alt="Taj Mahal"

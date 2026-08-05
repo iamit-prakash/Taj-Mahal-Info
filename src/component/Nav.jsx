@@ -15,8 +15,12 @@ export default function Nav() {
             History
           </Link>
 
-          <Link to="/architecture" className="text-decoration-none">
+          <Link to="/architecture" className=" me-5 text-decoration-none">
             Architecture
+          </Link>
+
+          <Link to="/details" className=" me-5 text-decoration-none">
+            Details
           </Link>
         </nav>
       </div>

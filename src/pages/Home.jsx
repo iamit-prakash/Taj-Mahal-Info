@@ -21,6 +21,8 @@ export default function Home(){
           considered one of the most beautiful architectural masterpieces in
           history.
         </p>
+        <h3>Monument</h3>
+        <p>Thos is monuments</p>
         </div>
     )
 }
